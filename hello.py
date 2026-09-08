@@ -1,5 +1,8 @@
+def greet(name):
+    return "Hello, " + name + "!"
+
 def main():
-    print("Hello from GitHub demo!")
+    print(greet("GitHub"))
 
 if __name__ == "__main__":
     main()
