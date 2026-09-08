@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Visual Studio / C#
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.user
+
+# OS
+Thumbs.db
+.DS_Store
